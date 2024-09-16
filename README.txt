@@ -1,3 +1,6 @@
+该项目可以在拍照后将选好的jpg格式照片的raw格式一起选出来，省去了一张张raw格式照片寻找的步骤
+In this project, you can select the RAW format of the selected JPG photos together after taking the photo, eliminating the need to search for RAW photos one by one
+
 step：
 1、先把导出的照片按jpg和raw格式分成两个文件夹，分别设置为jpg1、raw1（尼康用户设为nef1，佳能用户设为cr31，全部小写）
 2、创建两个文件夹，为jpg，raw，jpg文件夹存放选中的jpg文件，零一文件夹为空
